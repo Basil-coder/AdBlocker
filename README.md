@@ -3,4 +3,5 @@ Self made Adblocker for Chrome
 
 
 
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fbacklinko.com%2Fad-blockers-users&psig=AOvVaw2A6QX9LBN8U_wzy7US04TO&ust=1678397430781000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMjKw-ijzf0CFQAAAAAdAAAAABAN
+
+![ad-blocker-usage-and-demographic-statistics](https://user-images.githubusercontent.com/52016269/223855253-af157800-f26b-46e6-94b3-bbbef35df051.png)
